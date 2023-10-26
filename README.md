@@ -1,2 +1,2 @@
 # GitTutorial
-Tutorial for git.
+Tutorial for git!
